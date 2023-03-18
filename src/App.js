@@ -21,6 +21,7 @@ function App() {
   return (
     <Router>
       <div>
+        <h1>Hello</h1>
         <Navbar />
         <Wrapper>
           <Routes>
