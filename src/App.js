@@ -14,14 +14,12 @@ import { Work } from './pages/Work';
 import { Contact } from './pages/Contact';
 
 // Style
-import './App.css';
 import './index.css'
 
 function App() {
   return (
     <Router>
       <div>
-        <h1>Hello</h1>
         <Navbar />
         <Wrapper>
           <Routes>
