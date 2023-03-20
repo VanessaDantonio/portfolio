@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1b0052b7.css",
+    "main.js": "/portfolio/static/js/main.a755e345.js",
+    "static/media/code-refactor.png": "/portfolio/static/media/code-refactor.6484316bc788c1c65955.png",
+    "static/media/bootstrap-portfolio.png": "/portfolio/static/media/bootstrap-portfolio.dd4b531579b60c2fedbc.png",
+    "static/media/travel-companion.png": "/portfolio/static/media/travel-companion.457186cb73bddcea666d.png",
+    "static/media/prework-study-guide.png": "/portfolio/static/media/prework-study-guide.6339ebd731a30b73319b.png",
+    "static/media/work-day-scheduler.png": "/portfolio/static/media/work-day-scheduler.f9a5fd8697dd3a1f788a.png",
+    "index.html": "/portfolio/index.html",
+    "main.1b0052b7.css.map": "/portfolio/static/css/main.1b0052b7.css.map",
+    "main.a755e345.js.map": "/portfolio/static/js/main.a755e345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b0052b7.css",
+    "static/js/main.a755e345.js"
+  ]
+}
