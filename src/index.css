@@ -7,13 +7,12 @@
 
 @layer base {
   body {
-    @apply font-[Raleway];
+    font-family: "Raleway";
   }
   
   .navLink {
-    @apply px-4;
-    @apply cursor-pointer;
-    margin: 0 1.5rem;
+    cursor: pointer;
+    margin: 0 2rem;
     font-size: 1.3rem;
     color: white;
     text-decoration: none;
@@ -29,7 +28,7 @@
   }
 
   .logo {
-    @apply font-[Tangerine];
+    font-family: "Tangerine";
   }
 }
 
