@@ -9,10 +9,25 @@
   body {
     @apply font-[Raleway];
   }
+  
   .navLink {
     @apply px-4;
     @apply cursor-pointer;
+    margin: 0 1.5rem;
+    font-size: 1.3rem;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s ease-in-out;
   }
+    
+  .navLink:hover,
+  .navLink.active {
+    color:#ff884a;
+    border-bottom: 1px solid #ff884a;
+    font-weight: 500;
+  }
+
   .logo {
     @apply font-[Tangerine];
   }
